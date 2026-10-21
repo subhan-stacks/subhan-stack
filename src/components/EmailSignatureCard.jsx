@@ -48,6 +48,7 @@ const EmailSignatureCard = () => {
                 <span className="sig-chip">JavaScript</span>
                 <span className="sig-chip">Firebase</span>
                 <span className="sig-chip">AI APIs</span>
+                <span className="sig-chip">RAG</span>
                 <span className="sig-chip">Next.js</span>
                 <span className="sig-chip">Node.js</span>
               </div>
@@ -85,8 +86,8 @@ const EmailSignatureCard = () => {
                     </svg>
                   </span>
                   <span className="sig-contact-label">Web</span>
-                  <a href="https://subhan-decode.vercel.app/" target="_blank" rel="noreferrer">
-                    subhan-decode.vercel.app
+                  <a href="https://subhan-ahmad.netlify.app/" target="_blank" rel="noreferrer">
+                    subhan-ahmad.netlify.app
                   </a>
                 </div>
               </div>
