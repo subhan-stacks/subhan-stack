@@ -23,7 +23,7 @@ const projectsData = [
     title: 'Airport lugguage van website',
     description: 'Airport Luggage Transfer Elite London ground logistics and luxury bulk baggage transport platform. Features an instant secure flight dispatch booking system, multi-capacity Mercedes fleet (MWB, LWB, Luton Vans), and multilingual support for private jet arrivals and executive travelers.',
     skills: ['HTML', 'React', 'Tailwind', 'JavaScript', 'UI/UX', 'Responsive Design', 'web development', 'web design', 'seo', 'vercel'],
-    liveDemo: 'https://airportluggage-van.vercel.app/',
+    liveDemo: 'https://www.airportluggagevans.com/',
     github: 'https://github.com/subhan-stacks?tab=repositories',
   },
   {
